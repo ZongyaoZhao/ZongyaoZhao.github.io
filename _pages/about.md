@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zongyao Zhao"
+title: "Zongyao Zhao (赵 宗耀)"
 author_profile: true
 redirect_from: 
   - /about/
