@@ -23,7 +23,7 @@ repository               : "https://github.com/ZongyaoZhao/ZongyaoZhao.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "EDB.png"
+  avatar           : "images/EDB.png"
   name             : "Zongyao Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography"
