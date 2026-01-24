@@ -1,4 +1,3 @@
-<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/715c1df4-8860-4ac2-a429-b03e51927eaa" />---
 permalink: /
 title: "Zongyao Zhao (赵 宗耀)"
 author_profile: true
