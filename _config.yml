@@ -1,25 +1,7 @@
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "EDB.png"
-  name             : "Zongyao Zhao (赵宗耀)"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography"
-  location         : "Hong Kong"
-  employer         : "University of Hong Kong"
-  uri              : # URL
-  email            : "zongyao@hku.hk" 
-
-
-  # Academic websites
   #academia         : # URL
   #arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar : "https://scholar.google.com/citations?user=zCVvx6EAAAAJ&hl=zh-CN"
+  googlescholar : "https://scholar.google.com/citations?user=zCVvx6EAAAAJ&hl=zh-CN"
   #inspire-hep      : # URL
   #impactstory      : # URL
   #orcid            : "https://orcid.org/yourorcidurl"
@@ -33,6 +15,10 @@ author:
 
 
 
+
+
+
+
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -40,6 +26,8 @@ author:
   #github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+
 
 
   # Social media
@@ -70,6 +58,8 @@ author:
   zhihu            : # Username
 
 
+
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
@@ -78,6 +68,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+
+
 
 
 # Site Settings
