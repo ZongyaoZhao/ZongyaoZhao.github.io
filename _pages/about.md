@@ -12,7 +12,7 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
 
 ## Education
 - **Tsinghua University**, Ph.D. (2021–2025)  
-  Advisor: Yuhan Dong
+  Advisor: Yuhan Dong & Xinke Tang
 - **Imperial College London**, Visiting Ph.D. Student (2024–2025)  
   Advisor: Wei Dai
 - **Tsinghua University**, M.Eng. (2018–2021)  
@@ -20,10 +20,10 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
 - **University of Electronic Science and Technology of China**, B.Eng. (2014–2018)
 
 ## Honors & Awards
-- Director Scholarship, Peng Cheng National Laboratory (Top 1%, Rank 1/96), 2022
-- Outstanding Ph.D. Student, Peng Cheng National Laboratory (Top 10%), 2023
+- Director Scholarship, (Top 1%, Rank 1/96), 2022
+- Outstanding Ph.D. Student, (Top 10%), 2023
 - Comprehensive First-Class Scholarship, Tsinghua SIGS, 2022
 - Comprehensive Second-Class Scholarship, Tsinghua University, 2024 & 2025
-- 3rd Place, CCF CCC2021 Customized Computing Challenge, 2021
+- 3rd Place, CCF CCC2021 Customized Computing Challenge (CCC), 2021
 
 
