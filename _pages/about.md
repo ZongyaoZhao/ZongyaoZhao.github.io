@@ -13,7 +13,7 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
 ## Education
 - **Tsinghua University**, Ph.D. (2021–2025)  
   Advisor: Yuhan Dong & Xinke Tang
-- **Imperial College London**, Visiting Ph.D. Student (2024–2025)  
+- **Imperial College London**, Visiting Ph.D. (2024–2025)  
   Advisor: Wei Dai
 - **Tsinghua University**, M.Eng. (2018–2021)  
   Advisor: Jun Tang
