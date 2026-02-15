@@ -9,3 +9,21 @@ redirect_from:
 I am currently a postdoctoral fellow at The University of Hong Kong, working under the supervision of <a href="https://www.eee.hku.hk/~yuanwei/index.html">Prof. Yuanwei Liu</a>. I received the Ph.D. degree and the M.Eng. degree from Tsinghua University in 2025 and 2021, respectively, and the B.Eng. degree from the University of Electronic Science and Technology of China in 2018. From 2024 to 2025, I was a visiting researcher at Imperial College London.
 
 My research focuses on Integrated Sensing and Communication (ISAC), Signal Processing, Artificial Intelligence, and Optimization for Next-generation Wireless Systems.
+
+## Education
+- **Tsinghua University**, Ph.D. (2021–2025)  
+  Advisor: Yuhan Dong
+- **Imperial College London**, Visiting Ph.D. Student (2024–2025)  
+  Advisor: Wei Dai
+- **Tsinghua University**, M.Eng. (2018–2021)  
+  Advisor: Jun Tang
+- **University of Electronic Science and Technology of China**, B.Eng. (2014–2018)
+
+## Honors & Awards
+- Director Scholarship, Peng Cheng National Laboratory (Top 1%, Rank 1/96), 2022
+- Outstanding Ph.D. Student, Peng Cheng National Laboratory (Top 10%), 2023
+- Comprehensive First-Class Scholarship, Tsinghua SIGS, 2022
+- Comprehensive Second-Class Scholarship, Tsinghua University, 2024 & 2025
+- 3rd Place, CCF CCC2021 Customized Computing Challenge, 2021
+
+
