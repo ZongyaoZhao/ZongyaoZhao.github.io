@@ -17,7 +17,7 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
   Advisor: Wei Dai
 - **Tsinghua University**, M.Eng. (2018–2021)  
   Advisor: Jun Tang
-- **University of Electronic Science and Technology of China**, B.Eng. (2014–2018)
+- **University of Electronic Science and Technology of China (UESTC)**, B.Eng. (2014–2018)
 
 ## Honors & Awards
 - Director Scholarship, (Top 1%, Rank 1/96), 2022
