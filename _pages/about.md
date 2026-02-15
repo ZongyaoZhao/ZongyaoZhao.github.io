@@ -17,13 +17,13 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
   Advisor: Wei Dai
 - **Tsinghua University**, M.Eng. (2018–2021)  
   Advisor: Jun Tang
-- **University of Electronic Science and Technology of China (UESTC)**, B.Eng. (2014–2018)
+- **The University of Electronic Science and Technology of China (UESTC)**, B.Eng. (2014–2018)
 
 ## Honors & Awards
 - Director Scholarship, (Top 1%, Rank 1/96), 2022
 - Outstanding Ph.D. Student, (Top 10%), 2023
-- Comprehensive First-Class Scholarship, Tsinghua SIGS, 2022
-- Comprehensive Second-Class Scholarship, Tsinghua University, 2024 & 2025
+- Comprehensive First-Class Scholarship, Tsinghua, 2022
+- Comprehensive Second-Class Scholarship, Tsinghua, 2024 & 2025
 - 3rd Place, CCF CCC2021 Customized Computing Challenge (CCC), 2021
 
 
