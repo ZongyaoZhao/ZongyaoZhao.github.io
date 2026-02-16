@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral fellow at **The University of Hong Kong**, working under the supervision of <a href="https://www.eee.hku.hk/~yuanwei/index.html">Prof. Yuanwei Liu</a>. I received the Ph.D. degree and the M.Eng. degree from Tsinghua University in 2025 and 2021, respectively, and the B.Eng. degree from the University of Electronic Science and Technology of China in 2018. From 2024 to 2025, I was a visiting researcher at Imperial College London.
+I am currently a postdoctoral fellow at **The University of Hong Kong**, working under the supervision of <a href="https://www.eee.hku.hk/~yuanwei/index.html">Prof. Yuanwei Liu</a> & <a href="https://www.eee.hku.hk/~yuanwei/index.html](https://www.eee.hku.hk/people/huangkb/">Prof. Kaibin Huang</a> . I received the Ph.D. degree and the M.Eng. degree from Tsinghua University in 2025 and 2021, respectively, and the B.Eng. degree from the University of Electronic Science and Technology of China in 2018. From 2024 to 2025, I was a visiting researcher at Imperial College London.
 
 My research focuses on Integrated Sensing and Communication (ISAC), Signal Processing, Artificial Intelligence, and Optimization for Next-generation Wireless Systems.
 
@@ -17,7 +17,10 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
   Advisor: Wei Dai
 - **Tsinghua University**, M.Eng. (2018–2021)  
   Advisor: Jun Tang
-- **The University of Electronic Science and Technology of China (UESTC)**, B.Eng. (2014–2018)
+- **University of Electronic Science and Technology of China (UESTC)**, B.Eng. (2014–2018)
+
+## Work Experience
+- **The University of Hong Kong**, postdoctoral fellow (2026–present)  
 
 ## Honors & Awards
 - Director Scholarship, (Top 1%, Rank 1/96), 2022
