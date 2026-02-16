@@ -11,14 +11,14 @@ I am currently a postdoctoral fellow at **The University of Hong Kong**, working
 My research focuses on Integrated Sensing and Communication (ISAC), Signal Processing, Artificial Intelligence, and Optimization for Next-generation Wireless Systems.
 
 ## Education
-- **Tsinghua University**
-- Ph.D., Advisor: Yuhan Dong & Xinke Tang
-- **Imperial College London**//
-- Visiting Ph.D., Advisor: Wei Dai
-- **Tsinghua University**//
-- M.Eng., Advisor: Jun Tang
-- **University of Electronic Science and Technology of China (UESTC)**//
-- B.Eng. Advisor: Yijiu Zhao
+- **Tsinghua University**,
+  Ph.D., Advisor: Yuhan Dong & Xinke Tang
+- **Imperial College London**,
+  Visiting Ph.D., Advisor: Wei Dai
+- **Tsinghua University**,
+  M.Eng., Advisor: Jun Tang
+- **University of Electronic Science and Technology of China (UESTC)**,
+  B.Eng. Advisor: Yijiu Zhao
 
 ## Work Experience
 - **The University of Hong Kong**, postdoctoral fellow (2026–present)  
