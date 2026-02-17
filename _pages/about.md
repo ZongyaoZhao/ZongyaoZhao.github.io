@@ -21,7 +21,8 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
   B.Eng. Advisor: Yijiu Zhao
 
 ## Work Experience
-- **The University of Hong Kong**, postdoctoral fellow (2026–present)  
+- **The University of Hong Kong**  
+Postdoctoral fellow (2026-Present)
 
 ## Honors & Awards
 - Director Scholarship, (Top 1%, Rank 1/96), 2022
