@@ -12,13 +12,13 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
 
 ## Education
 - **Tsinghua University**  
-  Ph.D., Advisor: Yuhan Dong & Xinke Tang
+  Ph.D., advisor: Yuhan Dong & Xinke Tang
 - **Imperial College London**  
-  Visiting Ph.D., Advisor: Wei Dai
+  Visiting Ph.D., advisor: Wei Dai
 - **Tsinghua University**   
-  M.Eng., Advisor: Jun Tang
+  M.Eng., advisor: Jun Tang
 - **The University of Electronic Science and Technology of China (UESTC)**  
-  B.Eng. Advisor: Yijiu Zhao
+  B.Eng., advisor: Yijiu Zhao
 
 ## Work Experience
 - **The University of Hong Kong**  
