@@ -25,8 +25,8 @@ My research focuses on Integrated Sensing and Communication (ISAC), Signal Proce
 Postdoctoral fellow (2026-Present)
 
 ## Honors & Awards
-- Director Scholarship, (Top 1%, Rank 1/96), 2022
-- Outstanding Ph.D. Student, (Top 10%), 2023
+- Director Scholarship, Top 1%, Rank 1/96, 2022
+- Outstanding Ph.D. Student, Top 10%, 2023
 - Comprehensive First-Class Scholarship, Tsinghua, 2022
 - Comprehensive Second-Class Scholarship, Tsinghua, 2024 & 2025
 - 3rd Place, CCF CCC2021 Customized Computing Challenge (CCC), 2021
